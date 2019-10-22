@@ -1,0 +1,9 @@
+.big-image {
+  top: 5%;
+  left: 5%;
+  bottom: 5%;
+  max-height: 90%;
+  width: 90%;
+  position: absolute;
+  object-fit: cover;
+}
