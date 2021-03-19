@@ -5,7 +5,7 @@ ExifRead==2.1.2
 gpsphoto==2.2.3
 idna==2.8
 piexif==1.1.3
-Pillow==6.2.0
+Pillow==8.1.1
 python-resize-image==1.1.19
 requests==2.22.0
 urllib3==1.25.6
